@@ -1,4 +1,4 @@
 # ruby-on-rails-termux
 
 pkg up
-pkg install pkg-config build-essential make clang libxslt libxml2 libffi libsqlite
+pkg install pkg-config build-essential make clang libxslt libxml2 libffi libsqlite git libyaml sqlite curl wget
